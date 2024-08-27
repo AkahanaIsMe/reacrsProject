@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reacrsProject/static/css/main.306a1afb.css",
+    "main.js": "/reacrsProject/static/js/main.af80be75.js",
+    "static/js/453.64d1777c.chunk.js": "/reacrsProject/static/js/453.64d1777c.chunk.js",
+    "static/media/profile.jpg": "/reacrsProject/static/media/profile.ab4a88fae43526ca7a23.jpg",
+    "static/media/fa-solid-900.ttf": "/reacrsProject/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/profile1.png": "/reacrsProject/static/media/profile1.55164204a3d8dc820d4c.png",
+    "static/media/CV-JennyRoseTagumpay.pdf": "/reacrsProject/static/media/CV-JennyRoseTagumpay.1a55bd7726a9fcef7d95.pdf",
+    "static/media/fa-brands-400.ttf": "/reacrsProject/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/reacrsProject/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/reacrsProject/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/network.png": "/reacrsProject/static/media/network.3dfd45c5e755f657d388.png",
+    "static/media/devops.png": "/reacrsProject/static/media/devops.6e3f990dc06c6ab174c9.png",
+    "static/media/tosca.png": "/reacrsProject/static/media/tosca.71ed5fd4718a5ac25478.png",
+    "static/media/fa-regular-400.ttf": "/reacrsProject/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/reacrsProject/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/reacrsProject/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/reacrsProject/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/reacrsProject/index.html",
+    "main.306a1afb.css.map": "/reacrsProject/static/css/main.306a1afb.css.map",
+    "main.af80be75.js.map": "/reacrsProject/static/js/main.af80be75.js.map",
+    "453.64d1777c.chunk.js.map": "/reacrsProject/static/js/453.64d1777c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.306a1afb.css",
+    "static/js/main.af80be75.js"
+  ]
+}
